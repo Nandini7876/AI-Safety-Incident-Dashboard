@@ -66,4 +66,4 @@ ai-dashboard/
 
 ---
 
-Made with ❤️ by Manish
+Made with ❤️ by Nandini raj
